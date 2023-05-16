@@ -44,7 +44,7 @@ button.addEventListener('click', async () => {
     //DOM Setters go here
 
 }
-
+)
 
 ```
 

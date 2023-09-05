@@ -2,6 +2,8 @@
 
 ### PokeAPI lab
 
+<img src="./assets/pokemon1.jpeg">
+
 
 For this lab lets create our own Pokedex by making an Axios call to the PokeAPI!
 Lets first create an html file, attach in our JS Script file and the Axios library, and enter in a search bar and button to submit in our API call
@@ -52,3 +54,6 @@ Once you have the initial data rendered, try to add as much as possible. We can 
 
 
 Finally, this is a chance to really explore your styling skills. Be sure to create some wireframes to work with before creating something you can really show off, and have fun with!
+
+
+<img src="./assets/pokedex-3.jpeg">

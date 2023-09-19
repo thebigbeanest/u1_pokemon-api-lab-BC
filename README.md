@@ -4,6 +4,10 @@
 
 <img src="./assets/pokemon1.jpeg">
 
+Let's be the very best, that no one ever was.
+To make API calls is our quest
+DOM Manipulation is our cause!
+
 
 For this lab lets create our own Pokedex by making an Axios call to the PokeAPI!
 Lets first create an html file, attach in our JS Script file and the Axios library, and enter in a search bar and button to submit in our API call
